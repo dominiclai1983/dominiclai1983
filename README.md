@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Dominic Lai 👋
 
 <!--
 **dominiclai1983/dominiclai1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**`Ex-Ecommerce Guy Turns Into Coding Guy!`**
+Learning of programming after building a career in ecommerce for 10 years. With experience in the development of React + Rails / MERN app. Web3, Blockchain, Crypto and Solidity euthanist!
