@@ -2,7 +2,7 @@
 
 **`Ex-Ecommerce Guy Turns Into Coding Guy!`**
 
-Learning of programming after building a career in ecommerce for 10 years and at aged 38! With experience in the development of React + Rails / MERN app. Web3, Blockchain, Crypto and Solidity euthanist!
+Learning of programming after building a career in ecommerce for 10 years and at aged 37! With experience in the development of React + Rails / MERN app. Web3, Blockchain, Crypto and Solidity euthanist!
 
 ---
 
